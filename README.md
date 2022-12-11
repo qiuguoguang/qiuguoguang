@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qiuguoguang
 - 👀 I’m interested in EFI/MRC/MEMTEST ALGO DEV technologies
-- 🌱 I’m currently studying Intel Client platforms MRC CPGC Rationale and Code Architecture etc.
-- 💞️ I’m looking to collaborate on:TO BE UPDATE!!
+- 🌱 
+- 💞️ 
 - 📫 How to reach me @efiinternals on wechat or personal mailto: michael_chiu@outlook.com(michael.chiu@cxmt.com)
 
 <!---
