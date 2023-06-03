@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @qiuguoguang
 - 👀 I’m interested in EFI/MRC/MEMTEST ALGO DEV technologies
-- 🌱 
-- 💞️ 
 - 📫 How to reach me @efiinternals on wechat or personal mailto: michael_chiu@outlook.com(michael.chiu@cxmt.com)
 
 <!---
